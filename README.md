@@ -4,14 +4,16 @@
   Wheres Waldo is The 7th project as well as a fullstack project in The Odin Project Path this is to showcase testing routes and controllers and seamlessly connecting both backend and frontend
 
 Live: https://phindthephighter.netlify.app/
+<br>
 Frontend repository: https://github.com/SeasonedSoup/PhindThePhighter_front
+<br>
 Backend repository: https://github.com/SeasonedSoup/PhindThePhighter_back
 
-Tech Stack Used
--React
--Express
--Prisma
--Postgres
+Tech Stack Used <br>
+-React <br>
+-Express <br>
+-Prisma <br>
+-Postgres <br>
 
 ## Overview 
   The project is about finding fixed specific characters inside a designated map, the way I went with solving this is putting a PhighterLocation table on postgres 
